@@ -1,6 +1,8 @@
 # tratour
 
-A new Flutter project.
+Sebuah Aplikasi Mobile untuk manajemen sistem penjemputan sampah
+
+
 
 ## Getting Started
 
